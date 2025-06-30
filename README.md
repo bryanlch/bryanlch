@@ -1,7 +1,4 @@
-<h1 align="center">
-  💫 Bryan López Chavarria
-  ![](https://komarev.com/ghpvc/?username=bryanlch&color=dc143c&style=flat-square)
-</h1>
+<h1 align="center"> 💫 Bryan López Chavarria</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 ---
@@ -106,7 +103,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+![](https://komarev.com/ghpvc/?username=bryanlch&color=dc143c&style=flat-square)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=bryanlch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=bryanlch&theme=transparent&hide_border=true)
