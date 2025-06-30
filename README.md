@@ -103,7 +103,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=bryanlch&color=dc143c&style=flat-square)  
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=bryanlch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=bryanlch&theme=transparent&hide_border=true)
@@ -115,6 +115,6 @@
 ---
 
 ## 🔢 Visitors
-
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 [![](https://visitcount.itsvg.in/api?id=bryanlch&icon=1&color=0)](https://visitcount.itsvg.in)
 
