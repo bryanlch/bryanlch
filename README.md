@@ -1,5 +1,56 @@
-# 💫 About Me:
-# Bryan López Chavarria  <br>### Full Stack Developer  <br><br>🔭 **Currently working at** Hiberus Ecuador  <br>🌱 **Currently learning** Remix.js & Event-Driven Architecture (with NestJS)  <br>💬 **Ask me about** JavaScript, TypeScript, React, Node.js, and Full Stack development.  <br>⚡ **Fun fact** [Add a fun fact, e.g., "I automate my coffee maker with code!"].  <br><br>---<br><br>## 👨‍💻 Experience  <br><br>### **Grupo Link Ecuador - Full Stack Developer**  <br>_August 2021 - Present_  <br>- Led development of a Next.js WebApp for **Claro**, using a decision matrix based on user location/profile.  <br>- Built a React dashboard for sales metrics and rep tracking, with Azure authentication and role management.  <br>- Contributed to frontend projects for **Movistar** and **Tía Ecuador**, improving promotion/inventory management.  <br>- Developed and deployed microservices, optimizing performance and user experience.  <br><br>### **INNOVACIONES CLOUD - Web Developer**  <br>_February 2020 - August 2021_  <br>- Developed a warehouse management system with Node.js + React, using MySQL/MongoDB and WebSockets for real-time updates.  <br><br>---<br><br>## 🛠 Skills  <br>**Frontend:** JavaScript, TypeScript, React, Remix, Angular, CSS, TailwindCSS  <br>**Backend:** Node.js, NestJS, Event-Driven Architecture, MySQL, PostgreSQL, MongoDB  <br>**Tools:** Redux Toolkit, Zustand, TanStack Query, KafkaJS, Redis, Git  <br><br>---<br><br>## 📚 Education  <br>**Universidad Nacional de Ingeniería (NI)**  <br>_Computer Science Engineering · 2015 - 2021_  <br><br>---<br><br>## 📫 Contact  <br>📧 **Email:** bryan3108lopez@gmail.com  <br>📞 **Phone:** +(505) 86068355  <br>🔗 **LinkedIn:**https://www.linkedin.com/in/bryan-lopez-chavarria-74704a103/<br><br>---<br><br>👯 **Looking to collaborate on** innovative web projects (especially Remix.js or event-driven apps!).  <br>🤝 **Seeking help with** advanced Event-Driven Architecture patterns in NestJS.  
+<h1 align="center">💫 Bryan López Chavarria</h1>
+<h3 align="center">Full Stack Developer</h3>
+
+---
+
+🔭 <strong>Currently working at:</strong> Hiberus Ecuador  
+🌱 <strong>Currently learning:</strong> Remix.js & Event-Driven Architecture (with NestJS)  
+💬 <strong>Ask me about:</strong> JavaScript, TypeScript, React, Node.js, and Full Stack development  
+⚡ <strong>Fun fact:</strong> ¡Automatizo cosas aburridas para hacerlas divertidas con código! 😄
+
+---
+
+<h2>👨‍💻 Experience</h2>
+
+<h4><strong>Grupo Link Ecuador - Full Stack Developer</strong></h4>
+<i>August 2021 - Present</i>  
+- Lideré el desarrollo de una WebApp en Next.js para <strong>Claro</strong> usando una matriz de decisiones basada en ubicación/perfil del usuario.  
+- Construí un dashboard en React para métricas de ventas y seguimiento de representantes, con autenticación en Azure y gestión por roles.  
+- Contribuí en proyectos frontend para <strong>Movistar</strong> y <strong>Tía Ecuador</strong>, mejorando la gestión de promociones e inventario.  
+- Desarrollé e implementé microservicios, optimizando rendimiento y experiencia de usuario.  
+
+<h4><strong>INNOVACIONES CLOUD - Web Developer</strong></h4>
+<i>February 2020 - August 2021</i>  
+- Desarrollé un sistema de gestión de bodegas con Node.js + React, utilizando MySQL/MongoDB y WebSockets para actualizaciones en tiempo real.
+
+---
+
+<h2>🛠 Skills</h2>
+
+<strong>Frontend:</strong> JavaScript, TypeScript, React, Remix, Angular, CSS, TailwindCSS  
+<strong>Backend:</strong> Node.js, NestJS, Event-Driven Architecture, MySQL, PostgreSQL, MongoDB  
+<strong>Tools:</strong> Redux Toolkit, Zustand, TanStack Query, KafkaJS, Redis, Git
+
+---
+
+<h2>📚 Education</h2>
+
+<strong>Universidad Nacional de Ingeniería (NI)</strong>  
+<i>Computer Science Engineering · 2015 - 2021</i>
+
+---
+
+<h2>📫 Contact</h2>
+
+📧 <strong>Email:</strong> bryan3108lopez@gmail.com  
+📞 <strong>Phone:</strong> +(505) 86068355  
+🔗 <strong>LinkedIn:</strong> [linkedin.com/in/bryan-lopez-chavarria-74704a103](https://www.linkedin.com/in/bryan-lopez-chavarria-74704a103)
+
+---
+
+👯 <strong>Looking to collaborate on:</strong> proyectos web innovadores (especialmente con Remix.js o apps orientadas a eventos).  
+🤝 <strong>Seeking help with:</strong> patrones avanzados de Event-Driven Architecture en NestJS.
+
 
 
 ## 🌐 Socials:
